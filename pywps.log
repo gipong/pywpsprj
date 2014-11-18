@@ -10652,3 +10652,1353 @@ Traceback (most recent call last):
   File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
     locals(), [processSources.__name__])
 ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:09,049] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:09,073] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:09,099] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:09,100] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f16a6e99b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:09,101] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:09,101] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:09,102] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:09,102] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:09,104] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:09,105] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:09,106] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:16,278] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:16,303] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:16,329] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:16,331] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fed561d2b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:16,331] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:16,332] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:16,332] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:16,333] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:16,334] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:16,335] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:16,336] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:16,973] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:16,998] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:17,024] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:17,025] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fc4147bfb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:17,026] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:17,026] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:17,027] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:17,028] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:17,029] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:17,030] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:17,031] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:17,369] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:17,395] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:17,424] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:17,426] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7facf2d0fb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:17,426] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:17,427] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:17,427] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:17,428] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:17,429] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:17,430] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:17,431] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:17,700] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:17,726] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:17,753] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:17,754] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f7000149b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:17,755] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:17,756] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:17,756] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:17,757] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:17,759] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:17,760] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:17,761] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:17,910] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:17,936] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:17,963] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:17,965] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f6c82fd8b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:17,965] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:17,966] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:17,966] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:17,967] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:17,968] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:17,969] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:17,970] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:18,078] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:18,103] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:18,128] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:18,130] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f5fc2ba2b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:18,130] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:18,131] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:18,132] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:18,132] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:18,134] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:18,135] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:18,136] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:18,504] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:18,529] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:18,557] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:18,558] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fb677b34b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:18,559] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:18,559] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:18,560] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:18,561] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:18,562] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:18,563] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:18,564] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:18,700] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:18,725] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:18,751] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:18,753] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f7cd193fb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:18,753] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:18,754] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:18,754] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:18,755] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:18,756] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:18,757] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:18,758] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:19,245] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:19,271] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:19,297] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:19,299] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fc301ef3b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:19,299] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:19,300] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:19,301] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:19,301] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:19,303] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:19,303] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:19,304] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:19,399] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:19,424] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:19,451] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:19,453] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f6cf1626b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:19,454] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:19,454] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:19,455] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:19,455] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:19,457] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:19,458] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:19,459] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:19,590] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:19,617] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:19,648] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:19,650] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f85082ddb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:19,651] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:19,651] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:19,652] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:19,652] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:19,654] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:19,655] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:19,656] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:19,757] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:19,782] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:19,808] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:19,810] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f012377fb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:19,810] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:19,811] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:19,811] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:19,812] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:19,813] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:19,814] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:19,815] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:19,912] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:19,936] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:19,962] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:19,964] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7ff3778e4b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:19,964] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:19,965] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:19,965] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:19,966] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:19,967] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:19,968] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:19,969] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:57:34,167] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:57:34,192] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:57:34,218] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:57:34,219] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f9b20858b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:57:34,220] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:57:34,220] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:57:34,221] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:57:34,221] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:57:34,223] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:57:34,224] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:57:34,225] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:03,041] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:03,066] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:03,092] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:03,094] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fb152794b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:03,094] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:03,095] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:03,096] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:03,096] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:03,098] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:03,098] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:03,100] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:10,576] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:10,601] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:10,627] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:10,629] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f957a9a5b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:10,629] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:10,630] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:10,630] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:10,631] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:10,632] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:10,633] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:10,634] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:15,040] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:15,065] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:15,091] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:15,093] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fc1dc49fb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:15,093] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:15,094] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:15,095] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:15,095] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:15,097] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:15,098] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:15,099] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:22,439] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:22,465] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:22,491] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:22,492] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f670a263b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:22,493] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:22,493] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:22,494] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:22,494] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:22,496] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:22,497] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:22,498] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:26,737] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:26,763] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:26,789] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:26,790] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f8acd904b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:26,791] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:26,791] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:26,792] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:26,792] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:26,794] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:26,795] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:26,796] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:29,942] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:29,967] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:29,993] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:29,995] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f121b9c5b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:29,995] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:29,996] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:29,996] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:29,997] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:29,998] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:29,999] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:30,000] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:58:33,806] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:58:33,831] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:58:33,857] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:58:33,858] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f0ca5214b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:58:33,859] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:58:33,859] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:58:33,860] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:58:33,860] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:58:33,862] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:58:33,863] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:58:33,864] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:00,622] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:00,648] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:00,677] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:00,679] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f950e390b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:00,679] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:00,680] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:00,681] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:00,681] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:00,683] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:00,683] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:00,685] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:03,395] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:03,420] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:03,446] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:03,447] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f1b92b2db48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:03,448] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:03,449] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:03,449] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:03,450] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:03,451] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:03,452] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:03,453] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:06,208] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:06,233] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:06,259] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:06,261] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f8a79d58b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:06,261] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:06,262] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:06,263] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:06,263] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:06,265] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:06,265] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:06,266] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:06,686] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:06,711] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:06,737] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:06,739] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f3b16e6cb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:06,739] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:06,740] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:06,740] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:06,741] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:06,742] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:06,743] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:06,744] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:07,107] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:07,132] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:07,160] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:07,161] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f5037870b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:07,162] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:07,162] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:07,163] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:07,164] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:07,165] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:07,166] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:07,167] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:07,326] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:07,354] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:07,380] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:07,382] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7effd4d6ab48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:07,382] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:07,383] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:07,384] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:07,384] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:07,386] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:07,387] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:07,388] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:07,504] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:07,529] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:07,556] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:07,557] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f5c6aa1bb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:07,558] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:07,558] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:07,559] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:07,559] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:07,561] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:07,562] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:07,563] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:07,840] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:07,864] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:07,891] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:07,892] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f7934e4bb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:07,893] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:07,893] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:07,894] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:07,894] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:07,896] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:07,897] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:07,898] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:21,136] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:21,161] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:21,187] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:21,189] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f326be35b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:21,189] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:21,190] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:21,190] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:21,191] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:21,192] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:21,193] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:21,194] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:22,120] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:22,146] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:22,173] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:22,175] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f271bdf8b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:22,175] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:22,176] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:22,176] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:22,177] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:22,178] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:22,179] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:22,180] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:22,316] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:22,341] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:22,367] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:22,369] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f4288b3ab48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:22,369] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:22,370] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:22,370] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:22,371] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:22,372] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:22,373] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:22,374] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:24,904] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:24,930] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:24,957] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:24,959] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f3744235b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:24,960] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:24,960] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:24,961] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:24,962] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:24,963] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:24,964] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:24,965] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:33,304] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:33,329] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:33,355] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:33,356] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fd6d39d6b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:33,357] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:33,357] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:33,358] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:33,359] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:33,360] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:33,361] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:33,362] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:43,231] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:43,257] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:43,283] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:43,284] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f8655b66b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:43,285] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:43,285] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:43,286] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:43,286] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:43,288] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:43,289] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:43,290] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:54,857] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:54,882] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:54,908] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:54,910] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fa55a743b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:54,910] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:54,911] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:54,911] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:54,912] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:54,913] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:54,914] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:54,915] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:56,538] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:56,563] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:56,589] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:56,591] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7febd53e1b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:56,591] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:56,592] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:56,592] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:56,593] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:56,594] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:56,595] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:56,596] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:57,028] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:57,053] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:57,079] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:57,080] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fc9cda5eb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:57,081] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:57,081] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:57,082] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:57,083] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:57,084] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:57,085] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:57,086] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:57,505] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:57,532] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:57,562] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:57,564] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7fe3c5d48b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:57,565] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:57,565] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:57,566] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:57,566] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:57,568] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:57,569] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:57,570] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:57,674] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:57,699] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:57,729] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:57,731] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f3eade34b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:57,732] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:57,733] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:57,734] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:57,734] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:57,736] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:57,737] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:57,738] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:57,832] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:57,858] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:57,884] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:57,886] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f4e3b9c4b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:57,886] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:57,887] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:57,888] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:57,888] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:57,890] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:57,890] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:57,891] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:57,981] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:58,007] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:58,034] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:58,036] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f04224b1b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:58,036] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:58,037] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:58,038] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:58,038] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:58,040] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:58,040] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:58,042] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:58,133] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:58,158] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:58,186] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:58,187] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f4189ff2b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:58,188] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:58,188] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:58,189] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:58,190] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:58,191] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:58,192] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:58,193] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:58,293] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:58,318] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:58,344] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:58,345] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f209e50bb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:58,346] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:58,347] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:58,347] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:58,348] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:58,349] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:58,350] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:58,351] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:58,713] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:58,738] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:58,765] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:58,766] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f0d1e6b3b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:58,767] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:58,767] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:58,768] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:58,768] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:58,770] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:58,771] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:58,772] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:58,967] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:58,993] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:59,019] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:59,020] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f6a9f3c7b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:59,021] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:59,021] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:59,022] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:59,022] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:59,024] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:59,025] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:59,026] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:59,408] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:59,433] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:59,461] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:59,462] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7ff5a124bb48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:59,463] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:59,463] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:59,464] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:59,465] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:59,466] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:59,467] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:59,468] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 15:59:59,615] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 15:59:59,640] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 15:59:59,666] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 15:59:59,668] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f520b719b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 15:59:59,668] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 15:59:59,669] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 15:59:59,670] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 15:59:59,670] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 15:59:59,672] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 15:59:59,672] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 15:59:59,673] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess
+PyWPS [2014-11-18 16:00:23,296] INFO: MapScript could not be loaded, mapserver not supported: No module named mapscript
+PyWPS [2014-11-18 16:00:23,320] INFO: Reading processes from directory [/var/www/pywps/processes/]
+PyWPS [2014-11-18 16:00:23,348] WARNING: Could not import processes from 'processes': ImportError('No module named returner',)
+PyWPS [2014-11-18 16:00:23,350] WARNING: Could not import process [<class tests.BBoxProcess3D at 0x7f56cb5c5b48>]: TypeError("addBBoxInput() got an unexpected keyword argument 'crs'",)
+PyWPS [2014-11-18 16:00:23,350] WARNING: Could not import processes from 'processes': ImportError('No module named GMLBuffer',)
+PyWPS [2014-11-18 16:00:23,351] WARNING: Could not import processes from 'processes': ImportError('No module named reducer',)
+PyWPS [2014-11-18 16:00:23,352] WARNING: Could not import processes from 'processes': ImportError('No module named histogramprocess',)
+PyWPS [2014-11-18 16:00:23,352] INFO: Following processes are imported: ['gipong', 'dummyprocess', 'ultimatequestionprocess', 'complexVector', 'complexRaster', 'noOutput', 'firstInstance', 'secondInstance', 'assyncprocess', 'bboxprocess', 'complexprocess', 'literalprocess', 'noinputsprocess']
+PyWPS [2014-11-18 16:00:23,354] INFO: Status [processpaused]: Getting input data of process gipong
+PyWPS [2014-11-18 16:00:23,354] INFO: Status [processstarted][0.0]: Process gipong started
+PyWPS [2014-11-18 16:00:23,355] INFO: Status [processsucceeded]: PyWPS Process gipong successfully calculated
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named returner
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named GMLBuffer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named reducer
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/pywps-3.2.2-py2.7.egg/pywps/Wps/__init__.py", line 180, in _initFromDirectory
+    locals(), [processSources.__name__])
+ImportError: No module named histogramprocess

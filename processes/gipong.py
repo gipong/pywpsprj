@@ -72,7 +72,7 @@ class Process(WPSProcess):
             geoinfo = '\
             <LineString>\
               <coordinates>'+coordinates+'</coordinates>\
-            <LineString>'
+            </LineString>'
 
         if featureType == "Polygon":
             coordinates = ''
